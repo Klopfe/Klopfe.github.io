@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Quentin Klopfenstein</title>
+    <link>http://klopfe.github.io/publications/</link>
+    <description>Recent content in Publications on Quentin Klopfenstein</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 07 Nov 2019 08:46:28 +0100</lastBuildDate>
+    
+	<atom:link href="http://klopfe.github.io/publications/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Publications</title>
+      <link>http://klopfe.github.io/publications/publications/</link>
+      <pubDate>Thu, 07 Nov 2019 08:46:28 +0100</pubDate>
+      
+      <guid>http://klopfe.github.io/publications/publications/</guid>
+      <description> Mathematics QK, Samuel Vaiter. Linear Support Vector Regression with Linear Constraints. arXiv e-prints, 2019
+
+Biostatistics </description>
+    </item>
+    
+  </channel>
+</rss>
