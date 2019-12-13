@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Quentin Klopfenstein</title>
-    <link>http://klopfe.github.io/</link>
+    <link>https://klopfe.github.io/</link>
     <description>Recent content on Quentin Klopfenstein</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 07 Nov 2019 08:47:37 +0100</lastBuildDate>
     
-	<atom:link href="http://klopfe.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://klopfe.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>http://klopfe.github.io/hack/a/</link>
+      <link>https://klopfe.github.io/hack/a/</link>
       <pubDate>Thu, 07 Nov 2019 11:11:20 +0100</pubDate>
       
-      <guid>http://klopfe.github.io/hack/a/</guid>
+      <guid>https://klopfe.github.io/hack/a/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Teaching</title>
-      <link>http://klopfe.github.io/teaching/teaching/</link>
+      <link>https://klopfe.github.io/teaching/teaching/</link>
       <pubDate>Thu, 07 Nov 2019 08:47:24 +0100</pubDate>
       
-      <guid>http://klopfe.github.io/teaching/teaching/</guid>
+      <guid>https://klopfe.github.io/teaching/teaching/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Publications</title>
-      <link>http://klopfe.github.io/publications/publications/</link>
+      <link>https://klopfe.github.io/publications/publications/</link>
       <pubDate>Thu, 07 Nov 2019 08:46:28 +0100</pubDate>
       
-      <guid>http://klopfe.github.io/publications/publications/</guid>
+      <guid>https://klopfe.github.io/publications/publications/</guid>
       <description>Mathematics QK, Samuel Vaiter. Linear Support Vector Regression with Linear Constraints. arXiv e-prints, 2019
 
 Biostatistics C. Reichling, J. Taieb, V. Derangère, QK et al. Artificial intelligence-guided tissue analysis combined with immune infiltrate assessment predicts stage III colon cancer outcomes in PETACC08 study. Gut, 2019

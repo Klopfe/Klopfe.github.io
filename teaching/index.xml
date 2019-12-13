@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Teachings on Quentin Klopfenstein</title>
-    <link>http://klopfe.github.io/teaching/</link>
+    <link>https://klopfe.github.io/teaching/</link>
     <description>Recent content in Teachings on Quentin Klopfenstein</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 07 Nov 2019 08:47:24 +0100</lastBuildDate>
     
-	<atom:link href="http://klopfe.github.io/teaching/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://klopfe.github.io/teaching/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Teaching</title>
-      <link>http://klopfe.github.io/teaching/teaching/</link>
+      <link>https://klopfe.github.io/teaching/teaching/</link>
       <pubDate>Thu, 07 Nov 2019 08:47:24 +0100</pubDate>
       
-      <guid>http://klopfe.github.io/teaching/teaching/</guid>
+      <guid>https://klopfe.github.io/teaching/teaching/</guid>
       <description></description>
     </item>
     
