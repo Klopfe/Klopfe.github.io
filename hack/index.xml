@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hacks on Quentin Klopfenstein</title>
-    <link>/hack/</link>
+    <link>https://klopfe.github.io/hack/</link>
     <description>Recent content in Hacks on Quentin Klopfenstein</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 07 Nov 2019 11:11:20 +0100</lastBuildDate>
     
-	<atom:link href="/hack/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://klopfe.github.io/hack/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>/hack/a/</link>
+      <link>https://klopfe.github.io/hack/a/</link>
       <pubDate>Thu, 07 Nov 2019 11:11:20 +0100</pubDate>
       
-      <guid>/hack/a/</guid>
+      <guid>https://klopfe.github.io/hack/a/</guid>
       <description></description>
     </item>
     
