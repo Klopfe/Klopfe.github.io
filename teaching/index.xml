@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Teachings on Quentin Klopfenstein</title>
-    <link>https://klopfe.github.io/teaching/</link>
+    <link>/teaching/</link>
     <description>Recent content in Teachings on Quentin Klopfenstein</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 07 Nov 2019 08:47:24 +0100</lastBuildDate>
     
-	<atom:link href="https://klopfe.github.io/teaching/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/teaching/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Teaching experience</title>
-      <link>https://klopfe.github.io/teaching/teaching/</link>
+      <link>/teaching/teaching/</link>
       <pubDate>Thu, 07 Nov 2019 08:47:24 +0100</pubDate>
       
-      <guid>https://klopfe.github.io/teaching/teaching/</guid>
+      <guid>/teaching/teaching/</guid>
       <description>Teaching assistant Introduction to statistics , for second year management bachelor students, (34h), 2019
 
  Probability distributions (Binomial, Poisson, Gaussian)  Confidence interval and tests (Mean, Variance and Proportion)  

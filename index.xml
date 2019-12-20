@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Quentin Klopfenstein</title>
-    <link>https://klopfe.github.io/</link>
+    <link>/</link>
     <description>Recent content on Quentin Klopfenstein</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 07 Nov 2019 08:47:37 +0100</lastBuildDate>
     
-	<atom:link href="https://klopfe.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Teaching experience</title>
-      <link>https://klopfe.github.io/teaching/teaching/</link>
+      <link>/teaching/teaching/</link>
       <pubDate>Thu, 07 Nov 2019 08:47:24 +0100</pubDate>
       
-      <guid>https://klopfe.github.io/teaching/teaching/</guid>
+      <guid>/teaching/teaching/</guid>
       <description>Teaching assistant Introduction to statistics , for second year management bachelor students, (34h), 2019
 
  Probability distributions (Binomial, Poisson, Gaussian)  Confidence interval and tests (Mean, Variance and Proportion)  
@@ -26,10 +26,10 @@ Statistical inference, for second year economy bachelor students, (30h), 2018
     
     <item>
       <title>Publications</title>
-      <link>https://klopfe.github.io/publications/publications/</link>
+      <link>/publications/publications/</link>
       <pubDate>Thu, 07 Nov 2019 08:46:28 +0100</pubDate>
       
-      <guid>https://klopfe.github.io/publications/publications/</guid>
+      <guid>/publications/publications/</guid>
       <description>Mathematics QK, Samuel Vaiter. Linear Support Vector Regression with Linear Constraints. arXiv e-prints, 2019
 
 Biostatistics C. Reichling, J. Taieb, V. Derangère, QK et al. Artificial intelligence-guided tissue analysis combined with immune infiltrate assessment predicts stage III colon cancer outcomes in PETACC08 study. Gut, 2019
