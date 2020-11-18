@@ -2,24 +2,28 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications on Quentin Klopfenstein</title>
-    <link>http://klopfe.github.io/publications/</link>
+    <link>/publications/</link>
     <description>Recent content in Publications on Quentin Klopfenstein</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 07 Nov 2019 08:46:28 +0100</lastBuildDate>
     
-	<atom:link href="http://klopfe.github.io/publications/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/publications/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Publications</title>
-      <link>http://klopfe.github.io/publications/publications/</link>
+      <link>/publications/publications/</link>
       <pubDate>Thu, 07 Nov 2019 08:46:28 +0100</pubDate>
       
-      <guid>http://klopfe.github.io/publications/publications/</guid>
-      <description> Mathematics QK, Samuel Vaiter. Linear Support Vector Regression with Linear Constraints. arXiv e-prints, 2019
+      <guid>/publications/publications/</guid>
+      <description>Mathematics QK, Q. Bertrand, A. Gramfort, J. Salmon, S. Vaiter. Model identification and local linear convergence of coordinate descent. Submitted, 2020
 
-Biostatistics </description>
+Q. Bertrand, QK, M. Blondel, S. Vaiter, A. Gramfort, J. Salmon. Implicit differentiation of Lasso-type models for hyperparameter optimization. ICML, 2020
+
+QK, Samuel Vaiter. Linear Support Vector Regression with Linear Constraints. Submitted, 2019
+
+Biostatistics C. Reichling, J. Taieb, V. Derangère, QK et al. Artificial intelligence-guided tissue analysis combined with immune infiltrate assessment predicts stage III colon cancer outcomes in PETACC08 study.</description>
     </item>
     
   </channel>
