@@ -31,13 +31,11 @@ Introduction to statistics , for second year management bachelor students, (34h)
       <pubDate>Thu, 07 Nov 2019 08:46:28 +0100</pubDate>
       
       <guid>/publications/publications/</guid>
-      <description>Mathematics QK, Q. Bertrand, A. Gramfort, J. Salmon, S. Vaiter. Model identification and local linear convergence of coordinate descent. Submitted, 2020
+      <description>Mathematics and Machine Learning Publications Q. Bertrand, QK, M. Blondel, S. Vaiter, A. Gramfort, J. Salmon. Implicit differentiation of Lasso-type models for hyperparameter optimization. ICML, 2020
 
-Q. Bertrand, QK, M. Blondel, S. Vaiter, A. Gramfort, J. Salmon. Implicit differentiation of Lasso-type models for hyperparameter optimization. ICML, 2020
+Preprints Q. Bertrand, QK, M. Massias, M. Blondel, S. Vaiter, A. Gramfort, J. Salmon. Implicit differentiation for fast hyperparameter selection in non-smooth convex learning. Submitted. arXiv:2105.01637. 45 pages. 2021
 
-QK, Samuel Vaiter. Linear Support Vector Regression with Linear Constraints. Submitted, 2019
-
-Biostatistics C. Reichling, J. Taieb, V. Derangère, QK et al. Artificial intelligence-guided tissue analysis combined with immune infiltrate assessment predicts stage III colon cancer outcomes in PETACC08 study.</description>
+QK, Q. Bertrand, A. Gramfort, J. Salmon, S. Vaiter. Model identification and local linear convergence of coordinate descent.</description>
     </item>
     
   </channel>
